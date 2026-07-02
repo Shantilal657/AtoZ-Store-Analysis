@@ -48,5 +48,5 @@ A to Z Store should focus on women customers aged 30–49 in top-performing stat
 
 # Dashboard Preview
 
-![AtoZ Dashboard](Dashboard Image.png)
+![AtoZ Dashboard](dashboard.png)
 
