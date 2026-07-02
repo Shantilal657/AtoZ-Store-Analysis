@@ -1,18 +1,18 @@
-## Excel- A to Z Store Sales Analysis Dashboard
+# Excel- A to Z Store Sales Analysis Dashboard
 
 
-# Objective
+## Objective
 Analyze A to Z Store's 2022 sales data to understand customer behavior and improve sales in 2023.
 
 
-# Tools Used
+## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
 
 
-# Process
+## Process
 
 1) Data Cleaning
 - Standardized Gender values (M/W to Men/Women)
@@ -33,7 +33,7 @@ Built an interactive dashboard to analyze:
 - Sales by Channel
 
 
-# Key Insights
+## Key Insights
 - Highest sales in March
 - Women contributed more sales
 - 90% orders delivered
@@ -42,11 +42,11 @@ Built an interactive dashboard to analyze:
 - Amazon was the top sales channel
 
 
-# Conclusion
+## Conclusion
 A to Z Store should focus on women customers aged 30–49 in top-performing states using targeted ads and offers on Amazon.
 
 
-# Dashboard Preview
+## Dashboard Preview
 
 ![AtoZ Dashboard](dashboard.png)
 
